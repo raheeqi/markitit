@@ -33,7 +33,7 @@ Small businesses rely on pop-up shops for growth but face numerous challenges:
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Web Scraping: Puppeteer, Cheerio.js
-- Deployment: Vercel (Frontend), AWS (Backend)
+- Deployment: Railway (Frontend), AWS (Backend)
 - APIs: Eventbrite, Eventeny (and more public APIs)
 
 ## Getting Started
@@ -46,7 +46,7 @@ Before you begin, ensure you have the following installed:
 ### Installation
 #### Clone the repository:
 ```
-git clone https://github.com/your-username/markitit.git
+git clone https://github.com/raheeqi/markitit.git
 cd markitit
 ```
 
